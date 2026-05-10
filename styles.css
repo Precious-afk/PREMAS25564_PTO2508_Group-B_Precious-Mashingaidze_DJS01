@@ -312,7 +312,7 @@ a { color: inherit; text-decoration: none; }
   line-height: 1.3;
   letter-spacing: -0.005em;
   display: -webkit-box;
-  -webkitline-clamp: 2;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
